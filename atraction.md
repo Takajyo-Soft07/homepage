@@ -4,3 +4,4 @@
 
 <font color="green">フライト・ゴブリン・ファンタジー</font><br>
 <img src="gob.png" width="200" height="200"/>
+毎日みんなにイタズラばかりするゴブリンに反省してもらう旅に出よう！
