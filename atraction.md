@@ -4,5 +4,6 @@
 <img src="gob.png" width="190" height="190"/>
 毎日みんなにイタズラばかりするゴブリンに反省してもらう旅に出よう！<br>
 
-***エルフ姫の館***<br>
-<img src="gob.png" width="190" height="190"/>
+***ゴブリンの館***<br>
+<img src="land.png" width="190" height="200"/>
+ゴブリンに捕まったエルフ姫を助けにいこう！<br>
