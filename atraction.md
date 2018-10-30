@@ -3,5 +3,5 @@
 興奮と感動をみなさんにお届けします！**<br>
 
 <font color="green">フライト・ゴブリン・ファンタジー</font><br>
-<img src="gob.png" width="200" height="200"/>
+<img src="gob.png" width="190" height="190"/>
 毎日みんなにイタズラばかりするゴブリンに反省してもらう旅に出よう！
