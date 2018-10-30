@@ -1,6 +1,4 @@
-**ようこそ！！！<br>
-ファンタジーの世界へ！<br>
-興奮と感動をみなさんにお届けします！**<br>
+<img src="fun.pages" width="800" height="190"/>
 
 <font color="blue">フライト・ゴブリン・ファンタジー</font><br>
 <img src="gob.png" width="190" height="190"/>
